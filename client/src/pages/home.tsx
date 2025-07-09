@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { useQuery } from "@tanstack/react-query";
 import { Automation } from "@shared/schema";
+import { loadAutomations } from "@/lib/api";
 import SearchSidebar from "@/components/search-sidebar";
 import AutomationSection from "@/components/automation-section";
 import { Zap, Download, Menu } from "lucide-react";
@@ -20,7 +21,8 @@ export default function Home() {
   const [selectedCategories, setSelectedCategories] = useState<string[]>(["all"]);
 
   const { data: automations = [], isLoading } = useQuery<Automation[]>({
-    queryKey: ["/api/automations"],
+    queryKey: ["automations"],
+    queryFn: loadAutomations,
   });
 
   const filteredAutomations = automations.filter((automation) => {

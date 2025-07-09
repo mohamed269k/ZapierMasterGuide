@@ -1,13 +1,13 @@
 [build]
-  command = "npm run build"
+  command = "vite build && cp -r client/public/* dist/public/"
   publish = "dist/public"
 
 [build.environment]
   NODE_VERSION = "18"
 
 [[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/:splat"
+  from = "/data/*"
+  to = "/data/:splat"
   status = 200
 
 [[redirects]]
