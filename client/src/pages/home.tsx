@@ -141,23 +141,7 @@ export default function Home() {
               </div>
             )}
 
-            {/* Call to Action */}
-            <div className="bg-gradient-to-r from-brand-500 to-brand-600 rounded-xl shadow-lg p-8 text-white text-center mt-8">
-              <h3 className="text-2xl font-bold mb-4">Ready to Transform Your Workflow?</h3>
-              <p className="text-lg mb-6 text-blue-100">
-                Start implementing these automations today and save hours of manual work every week.
-              </p>
-              <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <Button className="bg-white text-brand-600 hover:bg-gray-100">
-                  <Zap className="mr-2 h-4 w-4" />
-                  Get Started with Zapier
-                </Button>
-                <Button variant="outline" className="border-white text-white hover:bg-white hover:text-brand-600">
-                  <Download className="mr-2 h-4 w-4" />
-                  Download Full Guide
-                </Button>
-              </div>
-            </div>
+
           </div>
         </div>
       </div>
