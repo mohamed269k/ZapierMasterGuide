@@ -9,7 +9,7 @@
     "trigger": "Gmail - New Attachment. Connect your Gmail account. You can optionally specify a label or sender to watch (e.g., only watch for emails with the label 'Invoices').",
     "action": "Google Drive - Upload File. Connect your Google Drive account and configure: Drive: Select 'My Google Drive', Folder: Choose the specific folder where you want attachments to be saved, File: Select the 'Attachment' data pill from the Gmail trigger step, File Name: Use the 'Subject' or 'From Name' from the Gmail trigger step as the file name.",
     "proTip": "Add a Filter by Zapier step between the trigger and action to only proceed if the attachment's file name contains specific keywords like 'invoice' or 'report'.",
-    "videoId": "YOUTUBE_VIDEO_ID_PLACEHOLDER",
+    "videoId": "bBqvFvqODa4?si=V_Nrvyhws3J6gTlj",
     "popularity": 95
   },
   {
