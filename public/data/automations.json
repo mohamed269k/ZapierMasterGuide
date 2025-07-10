@@ -13,6 +13,19 @@
     "popularity": 95
   },
   {
+    "id": 2,
+    "title": "Add New Facebook Lead Ads Leads to HubSpot",
+    "description": "Instantly send new leads from your Facebook Lead Ads campaigns directly into your HubSpot CRM as contacts, allowing for faster follow-up from your sales team.",
+    "category": "marketing",
+    "badge": "Popular",
+    "apps": ["Facebook Lead Ads", "HubSpot"],
+    "trigger": "Facebook Lead Ads - New Lead. Connect your Facebook account and select the correct Page and Form you want to pull leads from.",
+    "action": "HubSpot - Create or Update Contact. Map the fields from your Facebook form (like Name, Email, Phone Number) to the corresponding contact properties in HubSpot.",
+    "proTip": "Add an action to send a notification to a sales channel in Slack so the team knows a new hot lead has just arrived.",
+    "videoId": "bBqvFvqODa4?si=V_Nrvyhws3J6gTlj",
+    "popularity": 98
+  },
+  {
     "id": 3,
     "title": "Add New Form Submissions to CRM",
     "description": "Never miss a lead again! This automation instantly adds new form submissions to your CRM, ensuring immediate follow-up and better lead management.",
