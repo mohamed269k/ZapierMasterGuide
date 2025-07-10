@@ -13,20 +13,7 @@
     "popularity": 95
   },
   {
-    "id": 31,
-    "title": "Add New Facebook Lead Ads Leads to HubSpot",
-    "description": "Instantly send new leads from your Facebook Lead Ads campaigns directly into your HubSpot CRM as contacts, allowing for faster follow-up from your sales team.",
-    "category": "marketing",
-    "badge": "Popular",
-    "apps": ["Facebook Lead Ads", "HubSpot"],
-    "trigger": "Facebook Lead Ads - New Lead. Connect your Facebook account and select the correct Page and Form you want to pull leads from.",
-    "action": "HubSpot - Create or Update Contact. Map the fields from your Facebook form (like Name, Email, Phone Number) to the corresponding contact properties in HubSpot.",
-    "proTip": "Add an action to send a notification to a sales channel in Slack so the team knows a new hot lead has just arrived.",
-    "videoId": "bBqvFvqODa4?si=V_Nrvyhws3J6gTlj",
-    "popularity": 98
-  },
-  {
-    "id": 2,
+    "id": 3,
     "title": "Add New Form Submissions to CRM",
     "description": "Never miss a lead again! This automation instantly adds new form submissions to your CRM, ensuring immediate follow-up and better lead management.",
     "category": "marketing",
@@ -39,7 +26,7 @@
     "popularity": 90
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Auto-Post Blog Content to Social Media",
     "description": "Maximize your content reach by automatically sharing new blog posts across all your social media platforms, saving hours of manual posting.",
     "category": "marketing",
@@ -52,7 +39,7 @@
     "popularity": 85
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Score Leads Based on Website Activity",
     "description": "Automatically identify your hottest leads by tracking website behavior and updating lead scores in your CRM, helping sales focus on the most promising prospects.",
     "category": "marketing",
@@ -65,7 +52,7 @@
     "popularity": 70
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Send Welcome Email Series to New Subscribers",
     "description": "Nurture new subscribers automatically with a personalized welcome email series that builds relationships and drives engagement from day one.",
     "category": "marketing",
@@ -78,7 +65,7 @@
     "popularity": 88
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Track Social Media Mentions",
     "description": "Stay on top of your brand reputation by automatically tracking mentions across social media platforms and getting instant notifications for engagement opportunities.",
     "category": "marketing",
@@ -91,7 +78,7 @@
     "popularity": 75
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Generate Marketing Reports",
     "description": "Automatically compile marketing performance data from multiple sources into comprehensive reports, saving hours of manual data gathering.",
     "category": "marketing",
@@ -104,7 +91,7 @@
     "popularity": 78
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Update CRM with Email Engagement",
     "description": "Keep your CRM updated with email engagement data to help sales teams understand prospect interest and tailor their outreach accordingly.",
     "category": "marketing",
@@ -117,7 +104,7 @@
     "popularity": 72
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Send Order Confirmation Emails",
     "description": "Provide immediate order confirmation to customers with detailed information, building trust and reducing support inquiries about order status.",
     "category": "sales",
@@ -130,7 +117,7 @@
     "popularity": 92
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Track High-Value Orders",
     "description": "Get instant notifications for high-value orders so you can provide VIP customer service and ensure smooth fulfillment of important purchases.",
     "category": "sales",
@@ -143,7 +130,7 @@
     "popularity": 80
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "Follow Up on Abandoned Carts",
     "description": "Recover lost sales by automatically sending personalized follow-up emails to customers who abandon their shopping carts, often recovering 10-30% of lost revenue.",
     "category": "sales",
